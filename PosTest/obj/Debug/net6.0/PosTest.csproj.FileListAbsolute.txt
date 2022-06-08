@@ -1,0 +1,15 @@
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/bin/Debug/net6.0/PosTest
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/bin/Debug/net6.0/PosTest.deps.json
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/bin/Debug/net6.0/PosTest.runtimeconfig.json
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/bin/Debug/net6.0/PosTest.dll
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/bin/Debug/net6.0/PosTest.pdb
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.csproj.AssemblyReference.cache
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.AssemblyInfoInputs.cache
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.AssemblyInfo.cs
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.csproj.CoreCompileInputs.cache
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.dll
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/refint/PosTest.dll
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.pdb
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/PosTest.genruntimeconfig.cache
+/Users/liza/Documents/back_end_project/IG_POS/PosTest/PosTest/PosTest/obj/Debug/net6.0/ref/PosTest.dll
