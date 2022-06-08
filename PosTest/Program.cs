@@ -7,6 +7,8 @@ var user = new User {Username = "admin", Password = "123456"};
 auth.Login(user);
 
 
+
+
 Console.WriteLine($"cur:: {auth.GetCurrentUser().WorkShift?.Name}");
 var menuService = new MenuService();
 
