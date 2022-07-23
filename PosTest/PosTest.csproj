@@ -8,7 +8,26 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\..\igpos\IGPOS.Data\IGPOS.Data.csproj" />
+
+        <ProjectReference Include="..\..\igpos\IGPOS.Data\IGPOS.Data.csproj" />
+        <ProjectReference Include="..\..\igpos\IGPOS.Infrastructure\IGPOS.Infrastructure.csproj" />
+        
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="Configuration\appsettings.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="Configuration\log4net.config">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="log4net-1.2.15" Version="1.2.15" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Resource\log" />
+    </ItemGroup>
 </Project>
